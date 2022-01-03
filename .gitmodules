@@ -1,0 +1,6 @@
+[submodule "community_code/Aimanx9/--force"]
+	path = community_code/Aimanx9/--force
+	url = https://github.com/Aimanx9/Seabornvisualization
+[submodule "community_code/elsowiny/RNLyricSearch"]
+	path = community_code/elsowiny/RNLyricSearch
+	url = https://github.com/elsowiny/RNLyricSearch
