@@ -1,2 +1,3 @@
-# CommunityRepo
-House community code for newcomers and new timers
+![](https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/Wikiimages/firsttimer/firsttimers.gif)
+
+Community first timers repo
