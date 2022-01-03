@@ -2,7 +2,7 @@
 
 ## Pull Request type
 
-<!-- Make sure to link the issue you created to the pull request -->
+<!-- Make sure to link the issue you created to the pull request on the side -->
 
 Please check the type of change your PR introduces:
 
