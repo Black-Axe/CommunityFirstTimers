@@ -1,0 +1,17 @@
+name: My first issue
+description: Create an issue
+title: "[First Issue] <github user>"
+labels: [myfirstissue]
+body:
+  - type: textarea
+    id: issuedescription
+    attributes:
+      label: This is my first issue at Baxe!
+      value: Seems to be that my precious work isn't in this repo!
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        Feel free to check out other cool repositories of the Black Axe Community [here](https://github.com/Black-Axe)
