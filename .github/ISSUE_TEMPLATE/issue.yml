@@ -1,6 +1,6 @@
 name: My first issue
 description: Create an issue
-title: "[First Issue] <github user>"
+title: "[First Issue] <github username>"
 labels: [myfirstissue]
 body:
   - type: textarea
@@ -10,6 +10,12 @@ body:
       value: Seems to be that my precious work isn't in this repo!
     validations:
       required: true
+  - type: input
+    id: username
+    attributes:
+      label: This is my Github username
+    validations:
+      required: false
 
   - type: markdown
     attributes:
